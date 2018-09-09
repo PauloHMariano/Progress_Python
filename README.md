@@ -1,2 +1,2 @@
 # Progress_Python
-Exercises I practiced when learning python
+Exercises I practiced when learning python.
