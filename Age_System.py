@@ -1,3 +1,5 @@
+#System which allows members to input age and gender. It also gets you some particular/basic statistics based on your inputs.
+
 tot18 = totH = totM20 = 0
 while True:
     print("-------INPUT FORM-------")
